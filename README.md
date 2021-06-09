@@ -1,7 +1,4 @@
-# Awesome Project Build with TypeORM
+# Glamour Beauty Palor and Spa
 
-Steps to run this project:
+Made with ❤️ by [Sean Baraka](https://seanbaraka.dev)
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
